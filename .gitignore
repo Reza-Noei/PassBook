@@ -1,0 +1,195 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build/versioning generated files
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet v3 personal (auto-restored)
+[Aa]ssets/NuGet.config
+[Nn]uGet.config
+
+# MSBuild
+*.binlog
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Publish output
+[Pp]ublish/
+[Pp]ublishProfiles/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+TestResult.xml
+*.Coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# ReSharper / Rider / CodeRush
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.idea/
+*.dotCover
+
+# Code analysis
+.freshclipse/
+.sonarlint/
+.sonarqube/
+*.ncrunch*
+nCrunchTemp_*
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# UI/XAML generated files (built into obj/, kept out if generated locally)
+*.g.i.cs
+
+# OpenCover / ReportGenerator
+OpenCover/
+ReportGenerator/
+
+# Windows OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# User backups / crashes
+*.bak
+*.[Pp]rj.bak
+*.bak2
+*.Cache
+ClientBin/
+~$*
+*.mdmp
+*.err
+*.orig
+*.rej
+
+# Encrypted/secret config that shouldn't be committed
+*.pfx
+*.publishsettings
+*.pubxml.user
+
+# SQL Server / LocalDB
+*.mdf
+*.ldf
+*.ndf
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# JetBrains Rider generated
+**/Assets/AssetStoreTools*
+
+# Markdown/Doc outputs
+doc/
+*.chm
+*.hhc
+*.hhp
+
+# Click-Once directory
+publish/
+
+# Packaged outputs
+*.appx
+*.appxbundle
+*.appxupload
+*.msixupload
+
+# SharpDevelop
+*.wdproj
+
+# CodeRush personal settings
+.cr/personal
+
+# Python tools for Visual Studio
+__pycache__/
+*.pyc
+
+# Cake/Ice.build
+tools/**
+!tools/packages.config
+
+# Azure Functions
+local.settings.json
+
+# FAKE - F# Make
+.fake/
+
+# Ionide
+.ionide/
